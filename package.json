@@ -1,0 +1,29 @@
+{
+  "name": "gen-user-id",
+  "version": "0.0.0",
+  "description": "generate user ids of desired length",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiefbiiko/gen-user-id.git"
+  },
+  "keywords": [
+    "user",
+    "id"
+  ],
+  "author": "Noah Anabiik Schwarz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiefbiiko/gen-user-id/issues"
+  },
+  "homepage": "https://github.com/chiefbiiko/gen-user-id#readme",
+  "dependencies": {
+    "seed-bytes": "0.0.2"
+  },
+  "devDependencies": {
+    "tape": "^4.9.0"
+  }
+}
